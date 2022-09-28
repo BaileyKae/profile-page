@@ -62,3 +62,23 @@ h1 {
   align-items: center;
   justify-content: center;
 }
+
+.wrapper {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  gap: 3%;
+}
+
+.card {
+  width: 50%;
+  background-color: grey;
+  padding: 2em;
+}
+
+.card h3 {
+  margin-top: 0;
+}
